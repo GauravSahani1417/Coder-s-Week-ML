@@ -1,0 +1,26 @@
+Explaining your Granny about Machine Learning(ML)!
+
+     It’s a Sunday, a bright morning, starting my day to work on a project regarding Machine Learning and, unexpectedly my granny asks me,
+“Beta, What is Machine Learning!?”
+      Though the question was quiet unexpected, I was really excited to share some beautiful things regarding this field, so here where I started explaining my granny what actually is Machine Learning(ML).
+
+     So, Basically Machine Learning Is one of the emerging technologies nowadays, which is transforming lifes of each and every individual, so the term, Machine-Learning, tells us that, machine is learning, “who is teaching the machines!??”, “We teach the machines!”, using programming languages like Python, R, etc, also the definition tells that, Machine Learning provides computers with the ability to learn without being explicitly programmed. Considering a simple example, When cars drive themselves, machine learning play an important role. Cars will collect lots of data to learn how to drive better and safer. Hopefully, this is making a lot of sense because we haven’t got into the best parts of machine learning. One thing is for sure, though: it will play a huge role in our lives going forward.
+    So, we train our Machines(Computers), regarding the Past Datasets, and we tell them to predict for future, for example, predicting the Salary, predicting the stock prices, predicting whether the person has symptoms of certain disease or not, there are tremendous applications of Machine Learning, So its easy, 
+1)Take results, data from past!
+2)Put this Data, into a algorithm(which will help us to predict)
+3)And finally, getting the results!
+       
+          So this goes Technical now, you would question that, What are algorithms and Model!?, model is like a Vending Machine, which given an input (money), will give you some output (a soda can maybe) , An algorithm is what is used to train a model, all the decisions a model is supposed to take based on the given input, to give an expected output. For example, an algorithm will decide based on the dollar value of the money given, and the product you chose, whether the money is enough or not, how much balance you are supposed to get [back], and so on, also, algorithm is the mathematical life force behind a model. What differentiates models are the algorithms they employ, but without a model, an algorithm is just a mathematical equation hanging out with nothing to do, I hope this gives a basic idea Granny!
+         Now, There are Two techniques, to solve Machine Learning problems, 
+1)Supervised Learning, and
+2)Unsupervised Learning.
+        So, What basically is that, Supervised learning needs supervision to train the model, which is similar to as a student learns things in the presence of a teacher. Supervised learning can be used for two types of problems: Classification and Regression.
+And, The goal of unsupervised learning is to find the structure and patterns from the input data. Unsupervised learning does not need any supervision. Instead, it finds patterns from the data by its own. Unsupervised learning can be used for two types of problems: Clustering and Association, Interesting right?
+And based on these both methods, we have number of algorithm to train our model, which are, for eg. Linear Regression, Logistic Regression, Support Vector Machines,Decision Trees, which are used in Supervised Learning, while the algorithms like Clustering algorithms, K-Means Algorithm,etc. Basic examples of both the methods can be,
+1)Supervised Learning Examples: Fraud Detection , Email Spam Detection, Diagnostics, Score Prediction, etc.
+2)UnSupervised Learning Examples: Face Recognition, Image Recognition,etc.
+     So, this is all about Machine Learning in short Granny, respect your patience, to listen everything calmly, There’s lot more to know about this field, but I feel, for basic understanding about what I do everyday, its more than enough, loved your wish to know these advance new things, also it was a pleasure, explain you about Machine Learning, Thank you!
+
+
+
+
