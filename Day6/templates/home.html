@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <title>Predicting amount of Purchased</title>
+  </head>
+
+  <body>
+    <h1><div style="text-align:center"><font color="blue">Predicting amount of Purchased</font></div></h1>
+    <hr>
+    <div class='container'>
+      <div class='row'>
+        <div class='col-6'>
+          <form method="POST" action="/predict">
+            <div class="form-group">
+              <label for="Age"><p class="font-weight-bold">Age</p></label>
+              <input type="text" name="Age">
+              <small id="AHelp" class="form-text text-muted">Enter 1 if the state selected is Age else enter 0</small>
+              </div>
+
+              <div class="form-group">
+                <label for="Gender"><p class="font-weight-bold">Gender</p></label>
+                <input type="text" name="Gender">
+                <small id="GHelp" class="form-text text-muted">Enter 1 if the state selected is Gender else enter 0</small>
+                </div>
+
+                  <div class="form-group">
+                    <label for="EstimatedSalary"><p class="font-weight-bold">EstimatedSalary</p></label>
+                    <input type="text" name="EstimatedSalary">
+                    <small id="ESHelp" class="form-text text-muted">Enter 1 if the state selected is EstimatedSalary else enter 0</small>
+                    </div>
+
+                        <input class='btn btn-primary' type='submit' value='Submit'>
+            </form>
+
+          </div>
+          </div>
+          </div>
+  </body>
+
+</html>
